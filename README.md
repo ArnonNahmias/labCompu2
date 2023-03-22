@@ -17,4 +17,4 @@ Repositorio de prueba para comandos de git
 :+1:
 :sparkles:
 
-Link del proyecto: [Aula virtual de Lab de Compu 2](h
+Link del proyecto: [Aula virtual de Lab de Compu 2](https://presencial.ucc.edu.ar/course/view.php?id=9253)
